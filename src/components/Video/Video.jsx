@@ -34,14 +34,10 @@ class Video extends Component {
                 doloribus quibusdam quos soluta voluptatibus iusto ducimus
                 aliquid temporibus!
                 <br></br>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Quibusdam ratione ipsa, commodi, at sint quos velit neque error
-                asperiores perspiciatis magni vel cum eius vitae? Nesciunt
-                quaerat ea quibusdam deserunt?
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Quibusdam ratione ipsa, commodi, at sint quos velit neque error
-                asperiores perspiciatis magni vel cum eius vitae? Nesciunt
-                quaerat ea quibusdam deserunt?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit
+                recusandae pariatur cum, laudantium ratione mollitia possimus
+                praesentium dolore accusamus porro exercitationem, hic vitae,
+                eveniet sed architecto perferendis nobis minus? Et.
               </p>
             </Col>
 

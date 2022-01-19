@@ -1,6 +1,7 @@
 import React, { Component, Fragment } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
+
 class Courses extends Component {
   render() {
     return (

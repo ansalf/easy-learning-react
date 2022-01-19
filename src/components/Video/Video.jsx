@@ -4,6 +4,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faVideoSlash } from "@fortawesome/free-solid-svg-icons";
 import "video-react/dist/video-react.css";
 import { Player, BigPlayButton } from "video-react";
+
+
 class Video extends Component {
   constructor() {
     super();
